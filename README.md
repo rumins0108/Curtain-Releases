@@ -1,12 +1,3 @@
-## 작품 불러오기 예시
-
-작품 파일을 불러올 때 수록된 YouTube·로컬·구간 편집 음원을 구분해 확인할 수 있습니다. 넘버 제목 옆에 배우명을 함께 표시하고, 필요한 항목만 선택해 가져옵니다.
-
-<img width="604" height="969" alt="스크린샷 2026-09-14 162959" src="https://github.com/user-attachments/assets/d4ac4b9f-3b51-4dd7-85a7-cf77c441f995" />
-
-
-<img width="1277" height="761" alt="codex-clipboard-1f777a69-d4c1-4df5-94cd-65ffd16db8a9" src="https://github.com/user-attachments/assets/b26e4e83-4830-4d6e-a7bf-0b72bb987eab" />
-
 # Curtain · Velvet Stage
 
 > 나만의 뮤지컬 음원·영상 아카이브
@@ -15,20 +6,6 @@ Curtain은 작품과 넘버를 한곳에 모아 감상하고, 배우·가사·�
 
 현재 Curtain은 **1.0.5 beta**입니다. 기능과 안정성을 계속 개선하고 있습니다.
 
-## 실행 화면
-
-> 아래 이미지는 Curtain의 작품별 라이브러리와 플레이어 화면입니다.
-
-
-## 설치
-
-1. [Releases](https://github.com/rumins0108/Curtain-Releases/releases)에서 가장 최신의 `Curtain-Setup-버전.exe`를 내려받습니다.
-2. 설치 파일을 실행하고 안내에 따라 설치합니다.
-3. 설치 중 바탕화면 바로가기 생성 여부를 선택할 수 있습니다.
-
-- Windows 10/11 64비트 지원
-- 새 버전이 배포되면 앱 실행 시 알림과 환경설정의 업데이트 영역에서 확인할 수 있습니다.
-
 ## 주요 기능
 
 - **통합 재생** — 로컬 음원·영상과 YouTube 링크를 한 라이브러리에서 재생
@@ -36,15 +13,36 @@ Curtain은 작품과 넘버를 한곳에 모아 감상하고, 배우·가사·�
 - **재생 기록** — 재생목록, 즐겨찾기, 최근 재생, 자주 듣는 넘버 확인
 - **구간 편집** — 로컬 미디어의 파형을 분석해 시작·종료 지점을 정하고 짧은 구간 넘버 생성
 - **가사·대본** — 넘버별 가사와 대본을 저장하고 플레이어에서 바로 확인
-- **작품 공유** — 작품을 `.curtain` 파일로 내보내 다른 Curtain 라이브러리에서 불러오기
+- **작품 공유** — .curtain 파일로 작품 정보와 설정을 내보내 다른 Curtain 라이브러리에서 불러오기
 - **다중 작업** — 작품 목록에서 Ctrl+클릭으로 여러 작품을 선택해 보관·내보내기·삭제
 - **개인화** — 라이트·버건디·다크 테마와 미니 플레이어 제공
+
+## 실행 화면
+
+작품별 넘버 목록, 재생 상태, 재생 목록과 하단 플레이어를 한 화면에서 확인할 수 있습니다.
+
+<img width="1277" height="761" alt="Curtain 실행 화면" src="https://github.com/user-attachments/assets/b26e4e83-4830-4d6e-a7bf-0b72bb987eab" />
+
+## 작품 불러오기
+
+작품 파일을 불러올 때 수록된 YouTube·로컬·구간 편집 음원을 구분해 확인할 수 있습니다. 넘버 제목 옆에 배우명을 함께 표시하고, 필요한 항목만 선택해 가져옵니다.
+
+<img width="604" height="969" alt="작품 불러오기 예시" src="https://github.com/user-attachments/assets/d4ac4b9f-3b51-4dd7-85a7-cf77c441f995" />
+
+## 설치
+
+1. [Releases](https://github.com/rumins0108/Curtain-Releases/releases)에서 가장 최신 릴리스를 엽니다.
+2. 아래 **Assets**를 펼쳐 Curtain-Setup-버전.exe를 내려받습니다.
+3. 설치 파일을 실행하고 안내에 따라 설치합니다. 설치 중 바탕화면 바로가기 생성 여부를 선택할 수 있습니다.
+
+- Windows 10/11 64비트를 지원합니다.
+- 처음 실행할 때 Windows SmartScreen 경고가 보일 수 있습니다. 배포 페이지와 파일명이 일치하는지 확인한 뒤 진행하세요.
 
 ## 기본 사용
 
 ### 음악과 영상 등록
 
-`음악 추가`에서 로컬 파일·폴더·YouTube 영상을 선택합니다. 로컬 음원과 원본 영상은 작품별 폴더에 함께 보관하면 파일 연결과 내보내기를 더 안정적으로 사용할 수 있습니다.
+음악 추가에서 로컬 파일·폴더·YouTube 영상을 선택합니다. 로컬 음원과 원본 영상은 작품별 폴더에 함께 보관하면 파일 연결과 내보내기를 더 안정적으로 사용할 수 있습니다.
 
 ### 작품 관리
 
@@ -66,7 +64,8 @@ Curtain은 작품과 넘버를 한곳에 모아 감상하고, 배우·가사·�
 
 ## 문의
 
-- Discord: `rumins0108` (루민#2293)
+- 제작자: 루민
+- Discord: rumins0108 (루민#2293)
 - Email: [rumins0108@gmail.com](mailto:rumins0108@gmail.com)
 
 Copyright © 2026 루민. All rights reserved.
