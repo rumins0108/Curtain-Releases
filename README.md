@@ -6,6 +6,11 @@ Curtain은 작품과 넘버를 한곳에 모아 감상하고, 배우·가사·�
 
 현재 Curtain은 **1.0.5 beta**입니다. 기능과 안정성을 계속 개선하고 있습니다.
 
+[![최신 설치 파일 보기](https://img.shields.io/badge/Windows-최신%20설치%20파일%20보기-8B1E3F?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/rumins0108/Curtain-Releases/releases)
+
+> 위 버튼을 누른 뒤 가장 위 릴리스의 **Assets**를 펼쳐 `Curtain-Setup-버전.exe`를 내려받으세요.
+
+
 ## 주요 기능
 
 - **통합 재생** — 로컬 음원·영상과 YouTube 링크를 한 라이브러리에서 재생
