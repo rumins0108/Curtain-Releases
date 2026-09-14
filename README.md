@@ -1,3 +1,10 @@
+## 작품 불러오기 예시
+
+작품 파일을 불러올 때 수록된 YouTube·로컬·구간 편집 음원을 구분해 확인할 수 있습니다. 넘버 제목 옆에 배우명을 함께 표시하고, 필요한 항목만 선택해 가져옵니다.
+
+<img width="604" height="969" alt="스크린샷 2026-09-14 162959" src="https://github.com/user-attachments/assets/d4ac4b9f-3b51-4dd7-85a7-cf77c441f995" />
+
+
 <img width="1277" height="761" alt="codex-clipboard-1f777a69-d4c1-4df5-94cd-65ffd16db8a9" src="https://github.com/user-attachments/assets/b26e4e83-4830-4d6e-a7bf-0b72bb987eab" />
 
 # Curtain · Velvet Stage
