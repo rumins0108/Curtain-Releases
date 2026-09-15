@@ -1,14 +1,14 @@
-# Curtain · Velvet Stage
+# CURTAIN Player
 
-> 나만의 뮤지컬 음원·영상 아카이브
+> 나만의 음악·영상 라이브러리
 
 Curtain은 작품과 넘버를 한곳에 모아 감상하고, 배우·가사·재생 기록까지 정리하는 Windows용 개인 라이브러리 프로그램입니다. 로컬 MP3/MP4와 YouTube 영상을 같은 라이브러리에서 관리할 수 있습니다.
 
-현재 Curtain은 **1.0.7 beta**입니다. 기능과 안정성을 계속 개선하고 있습니다.
+현재 Curtain은 **1.0.8 beta**입니다. 기능과 안정성을 계속 개선하고 있습니다.
 
-[![최신 설치 파일 보기](https://img.shields.io/badge/다운로드-클릭시%20최신%20설치%20파일%20확인하기-8B1E3F?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/rumins0108/Curtain-Releases/releases)
+[![최신 설치 파일 보기](https://img.shields.io/badge/다운로드-클릭시%20최신%20설치%20파일%20확인하기-8B1E3F?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/rumins0108/Curtain-Releases/releases/tag/v1.0.8-beta)
 
-> 위 버튼을 누른 뒤 가장 위 릴리스의 **Assets**를 펼쳐 `Curtain-Setup-1.0.7-beta.exe`를 내려받으세요.
+> 위 버튼을 누른 뒤 1.0.8 베타 릴리스의 **Assets**를 펼쳐 `Curtain-Setup-1.0.8-beta.exe`를 내려받으세요.
 
 
 ## 주요 기능
@@ -22,7 +22,8 @@ Curtain은 작품과 넘버를 한곳에 모아 감상하고, 배우·가사·�
 - **가사·대본** — 넘버별 가사와 대본을 저장하고 플레이어에서 바로 확인
 - **작품 공유** — .curtain 파일로 작품 정보와 설정을 내보내 다른 Curtain 라이브러리에서 불러오기
 - **다중 작업** — 작품 목록에서 Ctrl+클릭으로 여러 작품을 선택해 보관·내보내기·삭제
-- **개인화** — 라이트·버건디·다크 테마와 미니 플레이어 제공
+- **추천 알림** — 한국 주간 인기 음악·급상승 음악·일간 쇼츠 인기 음악의 현재 차트에서 라이브러리에 없는 곡 안내
+- **개인화** — 라이트·버건디·다크·미드나이트 블루 테마와 작은 색상 미리보기, 영상 PiP 제공
 
 ## 실행 화면
 
