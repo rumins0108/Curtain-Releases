@@ -1,5 +1,30 @@
 # CURTAIN Player
 
+
+> 나만의 음악·영상 라이브러리
+
+
+Curtain은 작품과 음원을 한곳에 모아 감상하고, 가수·배우명, 가사·대본, 재생 기록까지 정리하는 Windows용 개인 라이브러리 프로그램입니다. 로컬 MP3/MP4와 YouTube 영상을 같은 라이브러리에서 관리할 수 있습니다.
+
+
+현재 Curtain은 **1.0.9 beta**입니다.
+
+
+[![최신 설치 파일 보기](https://img.shields.io/badge/다운로드-클릭시%20최신%20설치%20파일%20확인하기-8B1E3F?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/rumins0108/Curtain-Releases/releases/tag/v1.0.9-beta)
+
+
+> 위 버튼을 누른 뒤 **Assets**를 펼쳐 `Curtain-Setup-1.0.9-beta.exe`를 내려받으세요.
+
+
+## 주요 기능
+
+
+- **통합 재생** — 로컬 음원·영상과 YouTube 링크를 한 라이브러리에서 재생
+- **작품 관리** — 작품별 음원, 가수·배우명, 대표 이미지, 작품 설명을 관리
+- **YouTube (링크/검색)** — YouTube·YouTube Music 링크를 붙여넣거나 제목으로 검색해 음원을 등록
+- **재생목록·중복 관리** — 중복 곡은 기본 체크를 해제해 두고 필요한 항목만 선택 등록. 같은 음원은 작품별로 다시 등록 가능
+- **타임라인 등록** — 긴 YouTube 영상의 시간표를 붙여넣고 구간별 음원으로 추출·등록# CURTAIN Player
+
 > 나만의 음악·영상 라이브러리
 
 Curtain은 작품과 음원을 한곳에 모아 감상하고, 가수·배우명, 가사·대본, 재생 기록까지 정리하는 Windows용 개인 라이브러리 프로그램입니다. 로컬 MP3/MP4와 YouTube 영상을 같은 라이브러리에서 관리할 수 있습니다.
