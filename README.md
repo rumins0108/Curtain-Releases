@@ -4,11 +4,11 @@
 
 Curtain은 작품과 음원을 한곳에 모아 감상하고, 가수·배우명, 가사·대본, 재생 기록까지 정리하는 Windows용 개인 라이브러리 프로그램입니다. 로컬 MP3/MP4와 YouTube 영상을 같은 라이브러리에서 관리할 수 있습니다.
 
-현재 Curtain은 **1.0.9 beta**입니다.
+현재 Curtain은 **1.0.9 r3**입니다.
 
-[![최신 설치 파일 보기](https://img.shields.io/badge/다운로드-클릭시%20최신%20설치%20파일%20확인하기-8B1E3F?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/rumins0108/Curtain-Releases/releases/tag/v1.0.9-beta)
+[![최신 설치 파일 보기](https://img.shields.io/badge/다운로드-클릭시%20최신%20설치%20파일%20확인하기-8B1E3F?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/rumins0108/Curtain-Releases/releases/tag/v1.0.9-r3)
 
-> 위 버튼을 누른 뒤 **Assets**를 펼쳐 `Curtain-Setup-1.0.9-beta.exe`를 내려받으세요.
+> 위 버튼을 누른 뒤 **Assets**를 펼쳐 `Curtain-Setup-1.0.9-r3.exe`를 내려받으세요.
 
 ## 주요 기능
 
@@ -40,7 +40,7 @@ Curtain은 작품과 음원을 한곳에 모아 감상하고, 가수·배우명,
 ## 설치
 
 1. [Releases](https://github.com/rumins0108/Curtain-Releases/releases)에서 최신 릴리스를 엽니다.
-2. 아래 **Assets**를 펼쳐 `Curtain-Setup-1.0.9-beta.exe`를 내려받습니다.
+2. 아래 **Assets**를 펼쳐 `Curtain-Setup-1.0.9-r3.exe`를 내려받습니다.
 3. 설치 파일을 실행하고 안내에 따라 설치합니다. 설치 중 바탕화면 바로가기 생성 여부를 선택할 수 있습니다.
 
 - Windows 10/11 64비트를 지원합니다.
