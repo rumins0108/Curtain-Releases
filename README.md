@@ -4,17 +4,17 @@
 
 Curtain은 작품과 음원을 한곳에 모아 감상하고, 가수·배우명, 가사·대본, 재생 기록까지 정리하는 Windows용 개인 라이브러리 프로그램입니다. 로컬 MP3/MP4와 YouTube 영상을 같은 라이브러리에서 관리할 수 있습니다.
 
-현재 Curtain은 **1.0.12 beta**입니다.
+현재 Curtain은 **1.0.13 beta**입니다.
 
-[![최신 설치 파일 보기](https://img.shields.io/badge/다운로드-클릭시%20최신%20설치%20파일%20확인하기-8B1E3F?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/rumins0108/Curtain-Releases/releases/tag/v1.0.12-beta)
+[![최신 설치 파일 보기](https://img.shields.io/badge/다운로드-클릭시%20최신%20설치%20파일%20확인하기-8B1E3F?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/rumins0108/Curtain-Releases/releases/tag/v1.0.13-beta)
 
-> 위 버튼을 누른 뒤 **Assets**를 펼쳐 `Curtain-Setup-1.0.12-beta.exe`를 내려받으세요.
+> 위 버튼을 누른 뒤 **Assets**를 펼쳐 `Curtain-Setup-1.0.13-beta.exe`를 내려받으세요.
 
 ## 주요 기능
 
 - **통합 재생** — 로컬 음원·영상과 YouTube 링크를 한 라이브러리에서 재생
-- **작품 관리** — 작품별 음원, 가수·배우명, 대표 이미지, 작품 설명을 관리
-- **YouTube (링크/검색)** — YouTube·YouTube Music 링크를 붙여넣거나 제목으로 검색해 음원을 등록
+- **작품 관리** — 작품별 음원·정보 관리, 상단 고정, 드래그 순서 저장, 작품명·곡 수 목록에서 선택
+- **YouTube (링크/검색)** — YouTube·YouTube Music 링크 등록, 제목 재검색과 2~30개 후보 확인, 조회수순 정렬·여러 곡 선택 가져오기
 - **재생목록·중복 관리** — 중복 곡은 기본 체크를 해제해 두고 필요한 항목만 선택 등록. 같은 음원은 작품별로 다시 등록 가능
 - **타임라인 등록** — 긴 YouTube 영상의 시간표를 붙여넣고 구간별 음원으로 추출·등록
 - **멜론 차트 TOP100** — 보유 여부 비교, 확인 필요 곡 연결, 체크·전체 선택, 미보유·확인 필요 곡의 YouTube 일괄 가져오기와 보유 음원 연결 변경
@@ -26,6 +26,8 @@ Curtain은 작품과 음원을 한곳에 모아 감상하고, 가수·배우명,
 - **가사·대본** — 음원별 가사와 대본을 저장하고 플레이어에서 바로 확인
 - **작품 공유** — `.curtain` 파일로 작품 정보와 설정을 내보내 다른 Curtain 라이브러리에서 불러오기
 - **파일 연결·백업** — 라이브러리 상태 점검, 누락 파일 재연결, 자동 백업과 복원
+- **검색 언어** — 한국어(KR)·영어·일본어 설정, 제공되는 현지화 제목·가수 정보 우선 사용
+- **화면 디자인** — 메뉴 아이콘·현재 위치 표시, 목록 간격 전환과 정돈된 재생바
 - **개인화** — 라이트·버건디·다크·미드나이트 블루·체리 블라썸·포레스트 그린 테마와 영상 PiP 제공
 
 ## Google 계정 연결 안내
@@ -47,7 +49,7 @@ Curtain은 작품과 음원을 한곳에 모아 감상하고, 가수·배우명,
 ## 설치
 
 1. [Releases](https://github.com/rumins0108/Curtain-Releases/releases)에서 최신 릴리스를 엽니다.
-2. 아래 **Assets**를 펼쳐 `Curtain-Setup-1.0.12-beta.exe`를 내려받습니다.
+2. 아래 **Assets**를 펼쳐 `Curtain-Setup-1.0.13-beta.exe`를 내려받습니다.
 3. 설치 파일을 실행하고 안내에 따라 설치합니다. 설치 중 바탕화면 바로가기 생성 여부를 선택할 수 있습니다.
 
 - Windows 10/11 64비트를 지원합니다.
