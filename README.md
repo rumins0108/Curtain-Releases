@@ -4,11 +4,11 @@
 
 Curtain은 작품과 음원을 한곳에 모아 감상하고, 가수·배우명, 가사·대본, 재생 기록까지 정리하는 Windows용 개인 라이브러리 프로그램입니다. 로컬 MP3/MP4와 YouTube 영상을 같은 라이브러리에서 관리할 수 있습니다.
 
-현재 Curtain은 **1.0.11 beta**입니다.
+현재 Curtain은 **1.0.12 beta**입니다.
 
-[![최신 설치 파일 보기](https://img.shields.io/badge/다운로드-클릭시%20최신%20설치%20파일%20확인하기-8B1E3F?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/rumins0108/Curtain-Releases/releases/tag/v1.0.11-beta)
+[![최신 설치 파일 보기](https://img.shields.io/badge/다운로드-클릭시%20최신%20설치%20파일%20확인하기-8B1E3F?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/rumins0108/Curtain-Releases/releases/tag/v1.0.12-beta)
 
-> 위 버튼을 누른 뒤 **Assets**를 펼쳐 `Curtain-Setup-1.0.11-beta.exe`를 내려받으세요.
+> 위 버튼을 누른 뒤 **Assets**를 펼쳐 `Curtain-Setup-1.0.12-beta.exe`를 내려받으세요.
 
 ## 주요 기능
 
@@ -20,6 +20,9 @@ Curtain은 작품과 음원을 한곳에 모아 감상하고, 가수·배우명,
 - **멜론 차트 TOP100** — 보유 여부 비교, 확인 필요 곡 연결, 체크·전체 선택, 미보유·확인 필요 곡의 YouTube 일괄 가져오기와 보유 음원 연결 변경
 - **추천 알림** — 한국 주간 인기 음악·인기 급상승 음악·일간 쇼츠 인기 음악의 현재 차트에서 라이브러리에 없는 곡 안내
 - **재생 기록** — 재생목록, 즐겨찾기, 최근 재생, 자주 듣는 음원 확인
+- **최근 추가 음원** — 등록 순 목록, 등록 후 24시간 이내 NEW 표시·재생 시 해제, 가져온 음원 위치와 등록 날짜·출처 확인
+- **상세정보 편집** — 우클릭에서 제목·가수/배우·작품·구간·링크·음량·대본 수정과 변경 내용 확인
+- **목록 열 넓이** — 여섯 열의 자동 비율·직접 너비 설정, 드래그 중 px 표시, 설정과 편집창 크기 저장
 - **가사·대본** — 음원별 가사와 대본을 저장하고 플레이어에서 바로 확인
 - **작품 공유** — `.curtain` 파일로 작품 정보와 설정을 내보내 다른 Curtain 라이브러리에서 불러오기
 - **파일 연결·백업** — 라이브러리 상태 점검, 누락 파일 재연결, 자동 백업과 복원
@@ -44,7 +47,7 @@ Curtain은 작품과 음원을 한곳에 모아 감상하고, 가수·배우명,
 ## 설치
 
 1. [Releases](https://github.com/rumins0108/Curtain-Releases/releases)에서 최신 릴리스를 엽니다.
-2. 아래 **Assets**를 펼쳐 `Curtain-Setup-1.0.11-beta.exe`를 내려받습니다.
+2. 아래 **Assets**를 펼쳐 `Curtain-Setup-1.0.12-beta.exe`를 내려받습니다.
 3. 설치 파일을 실행하고 안내에 따라 설치합니다. 설치 중 바탕화면 바로가기 생성 여부를 선택할 수 있습니다.
 
 - Windows 10/11 64비트를 지원합니다.
