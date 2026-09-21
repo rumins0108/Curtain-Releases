@@ -9,9 +9,11 @@ YouTube와 로컬 파일을 한곳에 모으고, 작품별로 정리해 감상�
 
 **1.0.15 beta** · Windows 10 / 11 · 64비트
 
-[![Curtain 설치 파일 다운로드](https://img.shields.io/badge/다운로드-Curtain_1.0.15_beta-751D36?style=for-the-badge)](https://github.com/rumins0108/Curtain-Releases/releases/download/v1.0.15-beta/Curtain-Setup-1.0.15-beta.exe)
+[![Curtain 설치 파일 다운로드](https://img.shields.io/badge/다운로드-Curtain_1.0.15_beta-751D36?style=for-the-badge)](https://github.com/rumins0108/Curtain-Releases/releases/tag/v1.0.15-beta)
 
-[설치 파일 ZIP](https://github.com/rumins0108/Curtain-Releases/releases/download/v1.0.15-beta/Curtain-1.0.15-beta.zip) · [업데이트 내역](https://github.com/rumins0108/Curtain-Releases/releases/tag/v1.0.15-beta) · [설치 안내](#설치하기)
+[최신 버전 · 업데이트 내역](https://github.com/rumins0108/Curtain-Releases/releases/tag/v1.0.15-beta) · [설치 안내](#설치하기)
+
+다운로드 버튼을 누르면 최신 릴리스 페이지로 이동합니다. 페이지 아래 **Assets**에서 설치 EXE 또는 ZIP을 선택하세요.
 
 ![Curtain 전체 라이브러리 — 작품별 목록과 하단 재생 컨트롤](assets/screenshots/library.png)
 
@@ -210,10 +212,14 @@ YouTube와 로컬 파일을 한곳에 모으고, 작품별로 정리해 감상�
 
 **지원 환경: Windows 10 / 11, 64비트**
 
-| 다운로드 | 사용 방법 |
+[최신 릴리스에서 설치파일 보기 →](https://github.com/rumins0108/Curtain-Releases/releases/tag/v1.0.15-beta)
+
+릴리스의 업데이트 내용을 확인한 뒤, 하단 **Assets**를 펼쳐 원하는 설치파일을 내려받으세요.
+
+| Assets의 파일 | 사용 방법 |
 | :--- | :--- |
-| [Curtain-Setup-1.0.15-beta.exe](https://github.com/rumins0108/Curtain-Releases/releases/download/v1.0.15-beta/Curtain-Setup-1.0.15-beta.exe) | 내려받은 설치 파일을 실행하고 안내에 따라 설치하세요. |
-| [Curtain-1.0.15-beta.zip](https://github.com/rumins0108/Curtain-Releases/releases/download/v1.0.15-beta/Curtain-1.0.15-beta.zip) | 압축을 풀고 안에 있는 **Curtain-Setup-1.0.15-beta.exe**를 실행하세요. |
+| `Curtain-Setup-1.0.15-beta.exe` | 내려받은 설치 파일을 실행하고 안내에 따라 설치하세요. |
+| `Curtain-1.0.15-beta.zip` | 압축을 풀고 안에 있는 **Curtain-Setup-1.0.15-beta.exe**를 실행하세요. |
 
 두 형식 모두 같은 설치 프로그램입니다. 설치 과정에서 바탕화면 바로가기 생성 여부를 선택할 수 있습니다. 처음 실행할 때 Windows SmartScreen 경고가 보일 수 있으니 배포 페이지와 파일명이 일치하는지 확인한 뒤 진행하세요.
 
