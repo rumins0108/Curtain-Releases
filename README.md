@@ -7,11 +7,11 @@
 좋아하는 음악과 영상, 다시 보고 싶은 공연의 한 장면까지.<br>
 YouTube와 로컬 파일을 한곳에 모으고, 작품별로 정리해 감상하세요.
 
-**1.0.16 beta** · Windows 10 / 11 · 64비트
+**1.0.17 beta** · Windows 10 / 11 · 64비트
 
-[![Curtain 설치 파일 다운로드](https://img.shields.io/badge/다운로드-Curtain_1.0.16_beta-751D36?style=for-the-badge)](https://github.com/rumins0108/Curtain-Releases/releases/tag/v1.0.16-beta)
+[![Curtain 설치 파일 다운로드](https://img.shields.io/badge/다운로드-Curtain_1.0.17_beta-751D36?style=for-the-badge)](https://github.com/rumins0108/Curtain-Releases/releases/tag/v1.0.17-beta)
 
-[최신 버전 · 업데이트 내역](https://github.com/rumins0108/Curtain-Releases/releases/tag/v1.0.16-beta) · [설치 안내](#설치하기)
+[최신 버전 · 업데이트 내역](https://github.com/rumins0108/Curtain-Releases/releases/tag/v1.0.17-beta) · [설치 안내](#설치하기)
 
 다운로드 버튼을 누르면 최신 릴리스 페이지로 이동합니다. 페이지 아래 **Assets**에서 설치 EXE 또는 ZIP을 선택하세요.
 
@@ -21,6 +21,14 @@ YouTube와 로컬 파일을 한곳에 모으고, 작품별로 정리해 감상�
 
 </div>
 
+## 1.0.17 베타 업데이트
+
+- **가져오기·정보 수정:** 보유 여부·영상 길이 표시, 미리듣기 전체화면, 제목·가수 직접 편집과 여러 곡 일괄 수정.
+- **작품 관리:** 기존 폴더·속제목 다중 이동, 고정 작품 드래그, 검색·전체 펼치기/접기·구역 숨기기.
+- **재생·선택:** 전체 라이브러리 우클릭의 설정순·이름순·랜덤순·작품미지정순, 하단 재생 순서 표시, 전체 선택/해제 토글.
+- **편의 개선:** 최근 추가 모두 확인 처리, 얇은 스크롤바, 최대화 여백 수정, 설치 화면과 버전 정보 갱신.
+
+[1.0.17 베타 전체 업데이트 내역과 설치파일](https://github.com/rumins0108/Curtain-Releases/releases/tag/v1.0.17-beta)
 ## 모으고, 정리하고, 나만의 순서로 재생하세요
 
 | 기능 | Curtain에서 할 수 있는 일 |
@@ -131,7 +139,7 @@ YouTube와 로컬 파일을 한곳에 모으고, 작품별로 정리해 감상�
 <details>
 <summary><strong>최근 추가 음원 화면 보기 — NEW 표시가 사라지는 기준</strong> (클릭시 사진을 펼쳐봅니다)</summary>
 
-**최근 추가 목록에는 등록 후 24시간 동안 표시합니다. 한 번 재생하면 NEW 배지만 사라지고 목록에는 24시간까지 남습니다. 시간이 지나 목록에서 제외돼도 전체 라이브러리와 작품의 음원은 유지됩니다.**
+**최근 추가 목록에는 등록 후 24시간 동안 표시합니다. 한 번 재생하면 NEW 배지만 사라지고 목록에는 24시간까지 남습니다. 우클릭 → **모두 확인 처리**하면 24시간 전에도 최근 목록과 NEW 표시를 해제할 수 있습니다. 목록에서 제외돼도 전체 라이브러리와 작품의 음원은 유지됩니다.**
 
 ![최근 추가 음원 — 최신 등록순 목록과 제목 옆 NEW 배지](assets/screenshots/recently-added.png)
 
@@ -207,26 +215,26 @@ YouTube와 로컬 파일을 한곳에 모으고, 작품별로 정리해 감상�
 
 </details>
 
-## 1.0.16 업데이트
+## 1.0.17 업데이트
 
-1.0.15 beta-r1~r11의 변경을 통합했습니다. **메인 UI와 선택 작업 바**, **작품 이동·신규 속제목·빈 상위 폴더**, **작품 이름 바로 수정**, **가져오기 미리듣기**, **속제목 음원 가리기**, **차트 추천·다운로드 알림**을 개선했습니다. TOP100은 제목과 가수가 함께 확인된 곡만 표시하며, 최근 추가 목록은 등록 후 24시간을 기준으로 정리합니다.
+1.0.16 beta-r1~r22의 변경을 통합했습니다. **가져오기·정보 수정 화면**, **폴더·속제목 다중 이동**, **고정 작품 드래그·검색·숨기기**, **네 가지 재생 순서와 하단 표시**, **전체 선택/해제·최근 추가 모두 확인**을 개선했습니다. 최대화 검정 여백을 수정하고 설치 화면과 버전 정보도 갱신했습니다.
 
 여러 음원을 선택하면 검색창 아래에 작품 이동·다운로드·더보기 작업 바가 나타납니다. 즐겨찾기는 목록 오른쪽으로 옮기고, 제목·보조 정보와 선택·재생 중 표시, 하단 플레이어 배치를 정리했습니다.
 
-[1.0.16 beta 전체 업데이트 내역 →](https://github.com/rumins0108/Curtain-Releases/releases/tag/v1.0.16-beta)
+[1.0.17 beta 전체 업데이트 내역 →](https://github.com/rumins0108/Curtain-Releases/releases/tag/v1.0.17-beta)
 
 ## 설치하기
 
 **지원 환경: Windows 10 / 11, 64비트**
 
-[최신 릴리스에서 설치파일 보기 →](https://github.com/rumins0108/Curtain-Releases/releases/tag/v1.0.16-beta)
+[최신 릴리스에서 설치파일 보기 →](https://github.com/rumins0108/Curtain-Releases/releases/tag/v1.0.17-beta)
 
 릴리스의 업데이트 내용을 확인한 뒤, 하단 **Assets**를 펼쳐 원하는 설치파일을 내려받으세요.
 
 | Assets의 파일 | 사용 방법 |
 | :--- | :--- |
-| `Curtain-Setup-1.0.16-beta.exe` | 내려받은 설치 파일을 실행하고 안내에 따라 설치하세요. |
-| `Curtain-1.0.16-beta.zip` | 압축을 풀고 안에 있는 **Curtain-Setup-1.0.16-beta.exe**를 실행하세요. |
+| `Curtain-Setup-1.0.17-beta.exe` | 내려받은 설치 파일을 실행하고 안내에 따라 설치하세요. |
+| `Curtain-1.0.17-beta.zip` | 압축을 풀고 안에 있는 **Curtain-Setup-1.0.17-beta.exe**를 실행하세요. |
 
 두 형식 모두 같은 설치 프로그램입니다. 설치 과정에서 바탕화면 바로가기 생성 여부를 선택할 수 있습니다. 처음 실행할 때 Windows SmartScreen 경고가 보일 수 있으니 배포 페이지와 파일명이 일치하는지 확인한 뒤 진행하세요.
 
@@ -245,7 +253,7 @@ YouTube와 로컬 파일을 한곳에 모으고, 작품별로 정리해 감상�
 
 Discord: **rumins0108** (루민#2293) · [이메일 문의](mailto:rumins0108@gmail.com)
 
-[최신 릴리스](https://github.com/rumins0108/Curtain-Releases/releases/tag/v1.0.16-beta) · [전체 업데이트 기록](https://github.com/rumins0108/Curtain-Releases/releases)
+[최신 릴리스](https://github.com/rumins0108/Curtain-Releases/releases/tag/v1.0.17-beta) · [전체 업데이트 기록](https://github.com/rumins0108/Curtain-Releases/releases)
 
 <sub>Copyright © 2026 루민. All rights reserved.</sub>
 
