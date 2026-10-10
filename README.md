@@ -7,11 +7,11 @@
 좋아하는 음악과 영상, 다시 보고 싶은 공연의 한 장면까지.<br>
 YouTube와 로컬 파일을 한곳에 모으고, 작품별로 정리해 감상하세요.
 
-**1.0.17 beta** · Windows 10 / 11 · 64비트
+**1.0.18 beta** · Windows 10 / 11 · 64비트
 
-[![Curtain 설치 파일 다운로드](https://img.shields.io/badge/다운로드-Curtain_1.0.17_beta-751D36?style=for-the-badge)](https://github.com/rumins0108/Curtain-Releases/releases/tag/v1.0.17-beta)
+[![Curtain 설치 파일 다운로드](https://img.shields.io/badge/다운로드-Curtain_1.0.18_beta-751D36?style=for-the-badge)](https://github.com/rumins0108/Curtain-Releases/releases/tag/v1.0.18-beta)
 
-[최신 버전 · 업데이트 내역](https://github.com/rumins0108/Curtain-Releases/releases/tag/v1.0.17-beta) · [설치 안내](#설치하기)
+[최신 버전 · 업데이트 내역](https://github.com/rumins0108/Curtain-Releases/releases/tag/v1.0.18-beta) · [설치 안내](#설치하기)
 
 다운로드 버튼을 누르면 최신 릴리스 페이지로 이동합니다. 페이지 아래 **Assets**에서 설치 EXE 또는 ZIP을 선택하세요.
 
@@ -21,14 +21,15 @@ YouTube와 로컬 파일을 한곳에 모으고, 작품별로 정리해 감상�
 
 </div>
 
-## 1.0.17 베타 업데이트
+## 1.0.18 베타 업데이트
 
-- **가져오기·정보 수정:** 보유 여부·영상 길이 표시, 미리듣기 전체화면, 제목·가수 직접 편집과 여러 곡 일괄 수정.
-- **작품 관리:** 기존 폴더·속제목 다중 이동, 고정 작품 드래그, 검색·전체 펼치기/접기·구역 숨기기.
-- **재생·선택:** 전체 라이브러리 우클릭의 설정순·이름순·랜덤순·작품미지정순, 하단 재생 순서 표시, 전체 선택/해제 토글.
-- **편의 개선:** 최근 추가 모두 확인 처리, 얇은 스크롤바, 최대화 여백 수정, 설치 화면과 버전 정보 갱신.
+- **작품 삭제:** 속제목의 곡을 상위 작품으로 이동, 상위 작품 해체·음원 등록 삭제 선택 및 확인.
+- **음원 편집:** 구간·키·배속 편집 화면, 실시간 키 −6~+6·배속 0.25~3배, 파형 드래그 미리듣기·구간 반복·기본값 복원.
+- **파일 내보내기:** 편집한 구간·키·배속을 MP3/WAV/MP4로 저장하고 원본 유지.
+- **방송 다운로드:** 처음부터 현재까지 저장 또는 방송 종료 후 전체 다운로드 선택, 대기·취소·재시작 복원.
 
-[1.0.17 베타 전체 업데이트 내역과 설치파일](https://github.com/rumins0108/Curtain-Releases/releases/tag/v1.0.17-beta)
+[1.0.18 베타 전체 업데이트 내역과 설치파일](https://github.com/rumins0108/Curtain-Releases/releases/tag/v1.0.18-beta)
+
 ## 모으고, 정리하고, 나만의 순서로 재생하세요
 
 | 기능 | Curtain에서 할 수 있는 일 |
@@ -97,7 +98,7 @@ YouTube와 로컬 파일을 한곳에 모으고, 작품별로 정리해 감상�
 
 진행·완료 파일은 오른쪽 위 **종 아이콘 → 다운로드**에서 확인하세요. 새 다운로드를 등록하면 알림으로 표시되며, 목록에서 로컬 추가·대체를 선택할 수 있습니다.
 
-설치파일은 약 **7 MB**입니다. 다운로드 기능을 처음 사용할 때 필요한 도구를 별도로 설치하며, 이후 Curtain 업데이트에서도 재사용합니다. 예상 용량과 실제 파일 크기는 다를 수 있습니다.
+설치파일의 크기는 아래 릴리스 Assets에서 확인할 수 있습니다. 다운로드 기능을 처음 사용할 때 필요한 도구를 별도로 설치하며, 이후 Curtain 업데이트에서도 재사용합니다. 예상 용량과 실제 파일 크기는 다를 수 있습니다.
 
 ## 작품 정리
 
@@ -215,26 +216,26 @@ YouTube와 로컬 파일을 한곳에 모으고, 작품별로 정리해 감상�
 
 </details>
 
-## 1.0.17 업데이트
+## 1.0.18 업데이트
 
-1.0.16 beta-r1~r22의 변경을 통합했습니다. **가져오기·정보 수정 화면**, **폴더·속제목 다중 이동**, **고정 작품 드래그·검색·숨기기**, **네 가지 재생 순서와 하단 표시**, **전체 선택/해제·최근 추가 모두 확인**을 개선했습니다. 최대화 검정 여백을 수정하고 설치 화면과 버전 정보도 갱신했습니다.
+1.0.17 beta-r1~r7의 변경을 통합했습니다. 로컬 음원·영상에서 **구간 · 키 · 배속 편집**을 열어 조절하고, **내보내기**로 결과를 파일에 저장할 수 있습니다. 제목을 입력하면 원본 항목을 유지한 새 음원을 만들고, 비우면 기존 항목의 설정을 수정합니다.
 
-여러 음원을 선택하면 검색창 아래에 작품 이동·다운로드·더보기 작업 바가 나타납니다. 즐겨찾기는 목록 오른쪽으로 옮기고, 제목·보조 정보와 선택·재생 중 표시, 하단 플레이어 배치를 정리했습니다.
+방송 중인 YouTube 링크는 **현재까지 다운로드** 또는 **방송 종료 후 다운로드**를 선택하세요. 지난 구간/다시보기가 제공되는 방송에 사용할 수 있으며, 자동 대기는 Curtain이 실행 중일 때 동작합니다. 현재까지 저장은 마지막 몇 초를 제외할 수 있습니다.
 
-[1.0.17 beta 전체 업데이트 내역 →](https://github.com/rumins0108/Curtain-Releases/releases/tag/v1.0.17-beta)
+[1.0.18 beta 전체 업데이트 내역 →](https://github.com/rumins0108/Curtain-Releases/releases/tag/v1.0.18-beta)
 
 ## 설치하기
 
 **지원 환경: Windows 10 / 11, 64비트**
 
-[최신 릴리스에서 설치파일 보기 →](https://github.com/rumins0108/Curtain-Releases/releases/tag/v1.0.17-beta)
+[최신 릴리스에서 설치파일 보기 →](https://github.com/rumins0108/Curtain-Releases/releases/tag/v1.0.18-beta)
 
 릴리스의 업데이트 내용을 확인한 뒤, 하단 **Assets**를 펼쳐 원하는 설치파일을 내려받으세요.
 
 | Assets의 파일 | 사용 방법 |
 | :--- | :--- |
-| `Curtain-Setup-1.0.17-beta.exe` | 내려받은 설치 파일을 실행하고 안내에 따라 설치하세요. |
-| `Curtain-1.0.17-beta.zip` | 압축을 풀고 안에 있는 **Curtain-Setup-1.0.17-beta.exe**를 실행하세요. |
+| `Curtain-Setup-1.0.18-beta.exe` | 내려받은 설치 파일을 실행하고 안내에 따라 설치하세요. |
+| `Curtain-1.0.18-beta.zip` | 압축을 풀고 안에 있는 **Curtain-Setup-1.0.18-beta.exe**를 실행하세요. |
 
 두 형식 모두 같은 설치 프로그램입니다. 설치 과정에서 바탕화면 바로가기 생성 여부를 선택할 수 있습니다. 처음 실행할 때 Windows SmartScreen 경고가 보일 수 있으니 배포 페이지와 파일명이 일치하는지 확인한 뒤 진행하세요.
 
@@ -253,8 +254,9 @@ YouTube와 로컬 파일을 한곳에 모으고, 작품별로 정리해 감상�
 
 Discord: **rumins0108** (루민#2293) · [이메일 문의](mailto:rumins0108@gmail.com)
 
-[최신 릴리스](https://github.com/rumins0108/Curtain-Releases/releases/tag/v1.0.17-beta) · [전체 업데이트 기록](https://github.com/rumins0108/Curtain-Releases/releases)
+[최신 릴리스](https://github.com/rumins0108/Curtain-Releases/releases/tag/v1.0.18-beta) · [전체 업데이트 기록](https://github.com/rumins0108/Curtain-Releases/releases)
 
 <sub>Copyright © 2026 루민. All rights reserved.</sub>
 
 </div>
+
